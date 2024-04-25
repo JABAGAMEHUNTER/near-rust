@@ -1,0 +1,1 @@
+/home/jaba/Documentos/projects/web3/contract/dummy/key_value_storage/target/wasm32-unknown-unknown/release/libkey_value_storage.rlib: /home/jaba/Documentos/projects/web3/contract/dummy/key_value_storage/src/lib.rs
